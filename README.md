@@ -23,7 +23,7 @@ MAIN SCREEN:
 ![Screenshot 1]([file:///C:/Users/win%2010/Pictures/ATD.png](https://github.com/Divyp842/Face_recognition_based_attendance_system/blob/f9bd22683120aca68aabcaef47f63347bc04130a/ATD.png))
 
 TAKING ATTENDANCE:
-![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
+![Screenshot (10)]([https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png](https://github.com/Divyp842/Face_recognition_based_attendance_system/blob/main/ATD.png?raw=true))
 
 SHOWING ATTENDANCE TAKEN:
 ![Screenshot (11)](https://user-images.githubusercontent.com/37211676/58502151-9884c080-81a3-11e9-9a90-fec29940ee5a.png)
