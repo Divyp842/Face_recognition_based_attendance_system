@@ -22,14 +22,14 @@ https://machinelearningprojects.net/face-recognition-based-attendance-system/
 MAIN SCREEN:![Screenshot (09)](https://github.com/Divyp842/Face_recognition_based_attendance_system/blob/main/main_page.png)
 
 
+
 TAKING ATTENDANCE:
 ![Screenshot (10)](https://github.com/Divyp842/Face_recognition_based_attendance_system/blob/main/ATD.png)
+
 
 SHOWING ATTENDANCE TAKEN:
 ![Screenshot (11)](https://github.com/Divyp842/Face_recognition_based_attendance_system/blob/main/after.png)
 
-HELP OPTION IN MENUBAR:
-![Screenshot (12)](https://user-images.githubusercontent.com/37211676/58502152-991d5700-81a3-11e9-861a-9115526010c2.png)
 
 CHANGE PASSWORD OPTION:
 ![Screenshot (13)](https://github.com/Divyp842/Face_recognition_based_attendance_system/blob/main/pass.png)
